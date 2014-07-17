@@ -25,7 +25,7 @@ to the require section of your `composer.json` file.
 Usage
 -----
 
-Once the extension is installed, replace `\yii\grid\GridView` with `\nkovacs\pagesizer\GridView` and `\yii\widgets\ListView with \nkovacs\pagesizer\ListView`.
+Once the extension is installed, replace `\yii\grid\GridView` with `\nkovacs\pagesizer\GridView` and `\yii\widgets\ListView` with `\nkovacs\pagesizer\ListView`.
 
 You can use `{pagesizer}` inside the `$layout` property to customize the page sizer widget's placement, and the `$pageSizer` property to customize
 the page sizer widget.
